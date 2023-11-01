@@ -1,1 +1,7 @@
 .vscode/
+.metals/
+projects/example/.bsp/
+projects/example/mainRunner/
+projects/example/project/project
+projects/example/project/target
+projects/example/target
