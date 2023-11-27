@@ -3,9 +3,9 @@ ThisBuild / resolvers ++= Seq(
   Resolver.mavenLocal
 )
 
-name := "Flink Project"
+name := "flink"
 
-version := "0.1-SNAPSHOT"
+version := "0.1"
 
 organization := "org.example"
 

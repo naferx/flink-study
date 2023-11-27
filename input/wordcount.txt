@@ -1,0 +1,3 @@
+Flink provides a CLI tool, bin/flink, that can run programs packaged as Java ARchives (JAR) and control their execution. Submitting a job means uploading the job’s JAR ﬁle and related dependencies to the running Flink cluster and executing it.
+
+Flink releases come with example jobs, which you can ﬁnd in the examples/ folder.
